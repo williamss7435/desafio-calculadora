@@ -1,10 +1,12 @@
-Desafio Calculadora JavaScript (Curso HCode)<br>
-Data: 11/2018<br>
-Descrição: Desafio do Curso Da HCode de acordo com o que foi aprendido no primeiro módulo do curso. (Apenas o layout foi feito pela HCODE, todo o código em javascript foi desenvovildo por mim de acordo com o curso)<br>
+# Desafio Calculadora JavaScript (Curso HCode)
 
-<a href="http://pt-br.tinypic.com?ref=2ez6wr6" target="_blank"><img src="http://i68.tinypic.com/2ez6wr6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-<br>
-# Calculadora do windows 10 em HTML
+>Data: 11/2018<br>
+
+>Descrição: Desafio do Curso Da HCode de acordo com o que foi aprendido no primeiro módulo do curso. (Apenas o layout foi feito pela HCODE, todo o código em javascript foi desenvovildo por mim de acordo com o curso)
+
+![calculadora](https://user-images.githubusercontent.com/37387374/53837890-7f88bc80-3f72-11e9-8347-fff770fd7940.jpg)
+
+## Calculadora do windows 10 em HTML
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
 
